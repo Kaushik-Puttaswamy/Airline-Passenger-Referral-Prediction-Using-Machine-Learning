@@ -8,6 +8,7 @@ The dataset comprises airline reviews from 2016 to 2019 for major airlines world
 
 ## Project Architecture Diagram
 Below is the architecture diagram outlining the core flow of the system:
+![Project Architecture](https://github.com/Kaushik-Puttaswamy/Airline_Passenger_Referral_Prediction_Using_Machine_Learning/blob/main/Project%20Architecture.png)
 
 ## Data Description
 The dataset contains 131,895 entries and the following columns:
