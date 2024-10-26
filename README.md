@@ -6,6 +6,9 @@ This project aims to predict whether a passenger referred by an existing custome
 ## Objective
 The dataset comprises airline reviews from 2016 to 2019 for major airlines worldwide, with multiple-choice and open-text responses collected in Spring 2019. The primary objective is to predict whether passengers will recommend the airline to their friends.
 
+## Project Architecture Diagram
+Below is the architecture diagram outlining the core flow of the system:
+
 ## Data Description
 The dataset contains 131,895 entries and the following columns:
 
