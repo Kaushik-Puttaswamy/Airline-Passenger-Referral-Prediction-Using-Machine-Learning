@@ -29,8 +29,11 @@ The dataset contains 131,895 entries and the following columns:
 
 # Data Analysis and Preprocessing
 • Handled missing values appropriately.
+
 • Converted data types as necessary for model compatibility.
+
 • Selected features based on their relevance to the prediction task.
+
 • Conducted exploratory data analysis (EDA) to understand the distribution and relationships of features.
 
 # Key Insights
@@ -54,7 +57,9 @@ We developed and evaluated various classification models:
 # Model Evaluation
 
 • Performed hyperparameter tuning using Grid Search CV to optimize model performance and mitigate overfitting.
+
 • Evaluation metrics indicated that the Logistic Regression model achieved the best performance overall.
+
 • The Support Vector Machine demonstrated the highest accuracy rate by a narrow margin.
 
 # Feature Importance
@@ -76,7 +81,9 @@ The project successfully developed a predictive model achieving over 90% accurac
 
 # Future Work
 • Further refine models using advanced techniques, such as ensemble methods.
+
 • Incorporate additional features, such as demographic data, for more personalized predictions.
+
 • Continuously evaluate and update models with new data to maintain accuracy and relevance.
 
 
