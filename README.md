@@ -1,4 +1,4 @@
-# Airline_Passenger_Referral_Prediction_Using_Machine_Learning
+# Airline Passenger Referral Prediction Using Machine Learning
 
 ## Introduction
 This project aims to predict whether a passenger referred by an existing customer will book a flight, leveraging various features such as seat comfort, cabin service, travel class, food & beverage, entertainment service, and more. We developed a classification model using machine learning techniques, allowing the model to learn from historical passenger and booking data to make accurate predictions for new cases. Airlines can utilize this model to target marketing efforts towards potential passengers likely to book flights based on referrals from existing customers.
